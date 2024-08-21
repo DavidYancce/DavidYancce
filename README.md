@@ -1,7 +1,8 @@
 # David Yanccehuallpa Quispe
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-davidyanccehuallpa-blue)](https://www.linkedin.com/in/davidyanccehuallpa)
 [![Email](https://img.shields.io/badge/Email-david.yanccehuallpa.q%40uni.pe-red)](mailto:david.yanccehuallpa.q@uni.pe)
+
+![David's github trophy](https://github-profile-trophy.vercel.app/?username=DavidYancce&row=1)
 
 ## 🚀 About Me
 
